@@ -131,5 +131,12 @@
     "@mastra/s3": "0.4.1",
     "@mastra/vercel": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "agent-resume-stream-endpoint",
+    "cold-colts-write",
+    "fix-analyze-entry-dedup-cache",
+    "green-birds-knock",
+    "neat-nails-smoke",
+    "pretty-rice-travel"
+  ]
 }

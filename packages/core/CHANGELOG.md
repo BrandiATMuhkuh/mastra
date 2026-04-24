@@ -1,5 +1,7 @@
 # @mastra/core
 
+## 1.29.0-alpha.0
+
 ## 1.28.0
 
 ### Minor Changes

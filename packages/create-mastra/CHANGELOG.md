@@ -1,5 +1,11 @@
 # create-mastra
 
+## 1.6.4-alpha.0
+
+### Patch Changes
+
+- Removed Prettier from the CLI install path so generated project setup no longer pulls in the prettier dependency. ([#15711](https://github.com/mastra-ai/mastra/pull/15711))
+
 ## 1.6.3
 
 ## 1.6.3-alpha.2
